@@ -10,4 +10,4 @@ const TodoItem = ({ todo, onDelete }) => {
   );
 }
 
-export default TodoItem; // Add default export here
+export default TodoItem;
